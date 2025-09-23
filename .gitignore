@@ -10,3 +10,4 @@ clase_7/jupyter_notebooks/data
 clase_7/jupyter_notebooks/wandb
 .venv
 *.py
+**/online/
