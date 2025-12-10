@@ -11,3 +11,5 @@ clase_7/jupyter_notebooks/wandb
 .venv
 *.py
 **/online/
+TP3/datos_zip
+TP3/archivo.zip
